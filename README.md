@@ -1,3 +1,3 @@
-# Custom Accordion Component made using React.
-
+# Custom Accordion Component.
+Custom Accordion Component made using React.
 
